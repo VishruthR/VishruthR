@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey 👋
+
+My name is Vishruth, and I'm a student studying CS and Linguistics at the University of Illinois - Urbana Champaign. I'm passionate about creating technology to improve people's lives!
+
+You can learn more about me at [my website](vishruthraj.com)
 
 <!--
 **VishruthR/VishruthR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
