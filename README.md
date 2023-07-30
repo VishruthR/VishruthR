@@ -4,7 +4,7 @@ My name is Vishruth, and I'm a student studying CS and Linguistics at the Univer
 
 🔭 I’m currently working at Hack4Impact, where we build tech for nonprofits with the goal of having positive social impact. I'm also interning for GrammaTech, where I work on static analysis technology.
 
-You can learn more about me at [my website](www.vishruthraj.com)
+You can learn more about me at [my website](https://www.vishruthraj.com/)
 
 You can contact me at vishraj248@gmail.com
 
